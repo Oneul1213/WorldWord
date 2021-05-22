@@ -1,0 +1,15 @@
+D:\VisualStudioProject\WordWorld\WordWorld\bin\Debug\WordWorld.exe.config
+D:\VisualStudioProject\WordWorld\WordWorld\bin\Debug\WordWorld.exe
+D:\VisualStudioProject\WordWorld\WordWorld\bin\Debug\WordWorld.pdb
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.csprojAssemblyReference.cache
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.Main.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.Properties.Resources.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.StartMenu.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.csproj.GenerateResource.cache
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.exe
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.pdb
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.Map.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.Battle.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.QuestDialog.resources
+D:\VisualStudioProject\WordWorld\WordWorld\obj\Debug\WordWorld.Register.resources
